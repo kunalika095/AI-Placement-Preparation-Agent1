@@ -1,0 +1,6 @@
+{
+  "name": "AI Placement Preparation Agent",
+  "description": "An intelligent placement preparation application helping students with HR questions, technical interviews, coding challenges, and personalized learning roadmaps using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
